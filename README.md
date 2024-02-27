@@ -19,6 +19,14 @@
  - **Previous Blank Line** : Move to the previous blank line with `{` 
  - **Next Paragraph/Section** : Move to the start of the next paragraph or section with `]]` 
  - **Previous Paragraph/Section** : Move to the start of previous paragraph or section with `[[`   
+ - **End of line** : Press `s$` to move the cursor to the end of the line 
+ - **Last non-whitespace char** : Press `g_` to move the cursor to the last non-whitespace character
+ - **Go to Function definition** : Press `gd` or `gD` to go to the method definition 
+ 
 ### Using Search
  - **Search Forward** : Type `/` followed by your search term and press Enter. Press `n` to go to the next occurrence and N to go to the previous.
  - **Search Backward** : Type `?` followed by your search term and press Enter.  Press `n` to go to the next occurrence and N to navigate as above.
+
+## EDITING LINES
+ - **Delete the word under cursor & insert mode** : type `caw` to delete the word under the cursor and put you in insert mode 
+ 
