@@ -31,3 +31,6 @@
 ## EDITING LINES
  - **Delete the word under cursor & insert mode** : type `caw` to delete the word under the cursor and put you in insert mode 
  
+
+## Selecting 
+- **Select visually the word where the cursor is located** : type `viw` 
